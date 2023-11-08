@@ -8,6 +8,10 @@
 
 -Modal contains all the JPA Entities.
 
+-The api's that allow members to delete their accounts and borrow and return books are under Member controller and service.
+
+-The api's that allow Librarians to manage Books and Members are under Book Management and Member Management controller and service
+
 Flow of the system:
 
 -User call api -> controller -> service -> repository -><- JPA 
