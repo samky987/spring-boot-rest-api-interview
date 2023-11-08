@@ -1,4 +1,4 @@
--Each module of the application handles specific responsibility to apply the Single Responsibility Principle.
+-Each module of the application handles specific responsibility to apply the Single Responsibility Principle, and Seperation of Concerns.
 
 -In the controller package is where all the rest endpoints are located.
 
